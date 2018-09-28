@@ -1,0 +1,2 @@
+# minininpool
+Pool CPu Algo
